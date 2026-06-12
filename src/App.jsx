@@ -3,7 +3,8 @@
 // import Counter from "./components/Counter";
 // import ToggleButtom from "./components/ToggleButtom";
 // import NameForm from "./components/NameForm";
-import CounterWithEffect from "./components/CounterWithEffect";
+// import CounterWithEffect from "./components/CounterWithEffect";
+import HelloWord from "./components/HelloWord";
 
 import "./App.css";
 
@@ -41,7 +42,8 @@ function App() {
       {/* <Counter />*/}
       {/* <ToggleButtom />*/}
       {/* <NameForm />*/}
-      <CounterWithEffect />
+      {/* <CounterWithEffect />*/}
+      <HelloWord />
     </div>
   );
 }
